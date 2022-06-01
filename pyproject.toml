@@ -5,6 +5,7 @@ description = ""
 authors = ["Madson Dias <madsonddias@gmail.com>"]
 
 [tool.poetry.dependencies]
+pywin32 = "^304"
 python = "^3.8"
 jupyterlab = "^3.0.12"
 numpy = "^1.20.1"
